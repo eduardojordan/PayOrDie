@@ -20,3 +20,6 @@ Mostraría ejemplos básicos del uso de la app así como  situaciones ideales a 
 **Nota Adicional:**
 La seccion ajustes, seria para temas de login, notificaciones basicamente
 Estaria pendiente una prueba practica de uso con personas ajenas a la app e ir puliendo la disposicion de elementos y hacerla mas intuitiva de ser posible
+
+
+![Screenshot](vista1.png)
