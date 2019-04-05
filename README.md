@@ -1,4 +1,6 @@
-## PayOrDie Practica de Diseño de Interfaces BootCamp Keepcoding  ##
+## Practica de Diseño en Sketch Diseño de interfaces  ##
+
+## Practica de Diseño de Interfaces BootCamp Keepcoding  ##
 
 ### Explica las decisiones más importantes que has tomado y que consideres más importante. Máximo dos párrafos.
 
